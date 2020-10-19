@@ -21,3 +21,8 @@
 ### [Adm-de-cartão](https://github.com/BiaHawk/Administradora-de-cartao)
 
 - Projeto criado para a cadeira de algoritmos do curso de BSI da UFRPE. Constiste em utilizar uma estrutura de dados bastante conhecida, a árvore rubro-negra, para criar uma administradora de cartão, com as operações de: cadastrar pessoas e lojas; ter um limite max para o cartão de uso pessoal; apenas os estabelecimentos cadastrados aceitam o cartão.
+
+#
+
+### [pet-speed](https://github.com/petspeedufrpe/PetSpeed-Android)
+- Projeto criado para a cadeira de Programação Orientada a Objetos do curso de BSI da UFRPE. Consiste em um app criado para consultas de animais domésticos, auxiliando o veterinário com redes bayesianas para diagnósticos de doenças. 
